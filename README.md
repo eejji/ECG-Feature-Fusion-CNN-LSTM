@@ -42,3 +42,13 @@ In this study, we use two public available database.
 + __WESAD__ Database : [Available](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection), [scholar google](https://dl.acm.org/doi/abs/10.1145/3242969.3242985)
 + __MAUS__ Ddatabase : [Available](https://ieee-dataport.org/open-access/maus-dataset-mental-workload-assessment-n-back-task-using-wearable-sensor), [scholar google](https://arxiv.org/abs/2111.02561)
 
+
+## Datapreprocssing
+![pre](https://github.com/eejji/ECG-Feature-Fusion-CNN-LSTM/blob/main/Image/Preprocessed_ECG.jpg)
+
+## ECG Signal Segmentation
+![seg](https://github.com/eejji/ECG-Feature-Fusion-CNN-LSTM/blob/main/Image/ECG_segmentation_process.jpg)
+
+## Model Architecture
+![model](https://github.com/eejji/ECG-Feature-Fusion-CNN-LSTM/blob/main/Image/Feature_Fusion_Model.jpg)
+
