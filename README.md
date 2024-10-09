@@ -1,6 +1,6 @@
 # "Mental Stress Classification Based Single nad Continuous cycle ECG Feature Fusion CNN-LSTM"
 
-#### by- Jihoon Lee
+#### by- Jihun Lee
 
 
 + ***Ms Student, Dept. of IT Fusion Technology***  
