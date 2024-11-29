@@ -1,4 +1,4 @@
-# "Mental Stress Classification Based Single nad Continuous cycle ECG Feature Fusion CNN-LSTM"
+# "Mental Stress Classification Based Single nad Continuous cycle ECG Feature Fusion Ensemble Model"
 
 #### by- Jihun Lee
 
