@@ -1,4 +1,4 @@
-# "Mental Stress Classification Based Single nad Continuous cycle ECG Feature Fusion Ensemble Model"
+# "Mental Stress Classification Using Lightweight Approach with Single- and Continuous-Cycle ECG Fusion"
 
 #### by- Jihun Lee
 
